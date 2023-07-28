@@ -1,6 +1,6 @@
 .include/
 .Lib/
-.scripts/
+.Scripts/
 
 
 # Byte-compiled / optimized / DLL files
