@@ -1,1 +1,0 @@
-Calories Burnt Prediction , using XGBoost model.
