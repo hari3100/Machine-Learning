@@ -1,6 +1,8 @@
 Include/
-Lib/
+
 Scripts/
+Lib/site-packages/
+
 
 
 # Byte-compiled / optimized / DLL files
