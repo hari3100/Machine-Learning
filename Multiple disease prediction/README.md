@@ -27,8 +27,8 @@ How to Run the App
 
 Clone the repository to your local machine.
 Install the required dependencies using pip install -r requirements.txt.
-Ensure that the pickle files for trained models (standardScalar_diabetes.pkl, diabetes_model.pkl, heart_disease_model.pkl, scaler_parkinsons.pkl, parkinsons_disease_model.pkl) are present in the same directory as the app.py file.
-Run the app using streamlit run app.py.
+Ensure that the pickle files for trained models (standardScalar_diabetes.pkl, diabetes_model.pkl, heart_disease_model.pkl, scaler_parkinsons.pkl, parkinsons_disease_model.pkl) are present in the same directory as the imageapp.py file.
+Run the app using streamlit run imageapp.py.
 The app will open in your web browser, and you can start making predictions for different diseases.
 
 Future Improvements
